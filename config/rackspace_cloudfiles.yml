@@ -1,0 +1,14 @@
+development:
+    container_name: whatsthatrunning_development
+    username:
+    api_key: 
+
+test:
+    container_name: whatsthatrunning_test
+    username: 
+    api_key: 
+
+production:
+    container_name: whatsthatrunning_production
+    username: 
+    api_key: 
